@@ -1,2 +1,1 @@
-# NinoArteiroRebellion---NFT-Contract
-Contract code (NFT) of Nino Arteiro
+Contract code (NFT) de COTHAN WEB
